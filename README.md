@@ -1,1 +1,1 @@
-# My_Coursera
+# MyCoursera
